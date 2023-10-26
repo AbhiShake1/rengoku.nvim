@@ -22,7 +22,7 @@ Rengoku.config = {
   palette_overrides = {},
   overrides = {},
   dim_inactive = true,
-  transparent_mode = true,
+  transparent_mode = false,
 }
 
 -- main rengoku color palette
